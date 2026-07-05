@@ -1,4 +1,4 @@
-FROM grafana/tempo:latest
+FROM grafana/tempo:2.7.2
 
 EXPOSE 3200 4317 4318
 
